@@ -23,7 +23,6 @@ Ensure Python is installed on your system, then install the required packages:
 
 ```bash
 pip install pandas numpy surprise
-## Environment Setup 
 
 
 
