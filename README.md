@@ -22,6 +22,6 @@ The project demonstrates using Surprise to effectively build and refine a book r
 
 
 
-##Conclusion
+## Conclusion
 
 The project demonstrates using Surprise to effectively build and refine a book recommender system. The optimized SVD model, in particular, shows promise in accurately forecasting user ratings, with potential for further enhancement through deeper hyperparameter tuning and model exploration.
